@@ -8,7 +8,7 @@ public class Cone {
 	private double height;
 
 	public Cone() {
-		this(new Circle(4), 8);
+		this(new Circle(4), 9);
 	}
 	public Cone(Circle base, double height) {
 		this.base = base;
